@@ -152,3 +152,16 @@ Spectral is 100% free and open-source, under [Apache License 2.0](LICENSE).
 If you would like to thank Stoplight for creating Spectral, [**buy the world a tree**][stoplight_forest].
 
 [stoplight_forest]: https://ecologi.com/stoplightinc
+
+## Part of API Commons
+
+A browser-first tool from **[API Commons](https://apicommons.org)** — everything runs locally in your browser, so your tokens and data never leave it. See every tool at **[apicommons.org/tools](https://apicommons.org/tools/)** and the machine-readable building blocks at **[apicommons.org](https://apicommons.org)**.
+
+**Related tools**
+- [API Validator](https://validator.apicommons.org) — governance linting for OpenAPI, AsyncAPI, Arazzo and JSON Schema
+- [Ruleset Commons](https://rulesets.apicommons.org) — a registry of adoptable, provenanced rulesets
+- [Spectral Ruleset Studio](https://studio.apicommons.org) — turn a prose style guide into an owned ruleset
+
+## License
+
+**[Apache-2.0](LICENSE)**, inherited from the upstream project this is built from.
